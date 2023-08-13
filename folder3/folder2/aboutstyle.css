@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: 'Inter', sans-serif;
+}
+ul,
+ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+header{
+    margin: 32px;
+    margin-left: 40px;
+    width: 130px;
+}
+ul{
+    margin:51px 0;
+    font-size: 20px;
+    line-height: 24.2px;
+    
+}
+.about{
+    margin: 25px 0;
+}
+
+div{
+  margin: 21px 25px;
+    color: #821095;
+    font-style: initial;
+    font-size: 24px;
+}
+p{
+    color:#D41EF2;
+    line-height: 29.05px;
+    font-weight: 400px;
+    font-family:'Inter', sans-serif;
+    font-size: 24px;
+} 
+.main{
+    margin: 51px;
+}
+.insta{
+    margin:0 21px;
+}
+.HOME{
+    color: blue;
+}
+.about{
+    color: red;
+}

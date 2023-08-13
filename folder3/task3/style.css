@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ul
+,li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+ header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin: auto
+    
+    
+ }
+ nav ul{
+    display: flex;
+ }
+ .about{
+    margin: 0 121px;
+ }
+ .home{
+    color: #F50808;
+ }
+ .text{
+    margin: 120px 130px;
+    color: #17326E;
+ }
+ h2{
+    margin: 24px 0;
+    font-size: 36px;
+    line-height: 43.57px;
+    width: 209.91px;
+    height: 44px;
+ }
+ p{
+    font-size: 20px;
+    line-height: 24.2px;
+    top: 68px;
+    height: 48px;
+    width: 780px;
+ }
+ .cars{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 439px;
+   background-color: #EBEBF0;
+ }
+ .bluecar{
+    margin: 0 20px;
+ }
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #19126B;
+    height: 161px;
+    padding: 0 130px;
+}
+footer ul{
+    display: flex;
+}
+.copy{
+    color: #FFFFFF;
+}
+.middle{
+    margin: 0 20px;
+}
+.about h2{
+   font-size: 36px;
+   color: #19126B;
+   font-weight: 400;
+   width: 193.48px;
+   height: 44px;
+
+}
+.about p{
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24.2px;
+   width: 780px;
+   height: 120px;
+   top: 68px;
+   color: #090346;
+}
+main{
+   display: flex;
+   height: 516px;
+   background-color: #EBEBF0;
+   justify-content: center;
+   align-items: center;
+   max-width: 1180px;
+  padding: 0 100px;
+  margin: 120px 0;
+
+}
+
+main h1{
+   size: 36px;
+   line-height: 43.57px;
+   font-weight: 400;
+   width: 242px;
+   height: 44px;
+   top: 73px;
+  left:130px;
+  color: #19126B;
+}
+main p{
+   font-size: 20px;
+   width: 519px;
+   height: 192px;
+   top: 141px;
+   line-height: 24.2px;
+  color: #19126B;
+  margin: 24px 0;
+}
+div.contact{
+   margin: 120px 0;
+   
+}
+.contact h2{
+   font-size: 26px;
+   color: #19126B;
+   font-weight: 400;
+   width: 193.48px;
+   height: 44px;
+
+}
+.contact p{
+   margin: 24px 0;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24.2px;
+   width: 780px;
+   height: 120px;
+   top: 68px;
+   color: #090346;
+}
+.cont{
+   width: 322px;
+   height: 152px;
+   margin: 0 auto;
+   
+}
+.title{
+   width: 276px;
+   height: 36px;
+   top: 78px;
+   font-size: 26px;
+   line-height: 36.03px;
+   color: #19126B;
+   margin-bottom: 35px;
+}
+.contact span{
+   font-style: normal;
+}
+

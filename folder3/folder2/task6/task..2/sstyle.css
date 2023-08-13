@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+ul,
+ol{
+    list-style-type: none;
+    font-size: 20px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+body{
+   margin-left: 40px;
+   margin-top: 32px;
+
+}
+
+a{
+    text-decoration: none;
+}
+.mainlogo{
+    margin: 32px 0;
+}
+.nav{
+    margin: 51px 0;
+}
+.aboutbottom{
+    margin:12px 0;
+}
+.mainphoto{
+    margin:51px 0;
+}
+.homebottom {
+    color: #aa0c0c;
+}
+.text{
+    color: #20FF0D;
+    margin: 51px 0;
+    font-size: 24px;
+}
+
+.icons li{
+list-style-type: none;
+display: inline-block;
+margin-right: 20px;
+}
+.icons .instagram{
+    margin:0 40px;
+}
+.maintext{
+    margin: 94px 0;
+    font-size: 24px;
+    color: #D41EF2;
+}
+h2{
+    margin: 21px 0;
+    font-size: 36px;
+    color: #821095;
+}
+.contact{
+    width: 322px;
+    height: 153px;
+    background-color: #D41EF21F;
+    margin-right: 0 559px;
+    
+}
+h1{
+    margin: 35px 0;
+    font-size: 36px;
+    line-height: 36.03px;
+    font-style: italic;
+    color: #1B24F4;
+}
+.contact span{
+    font-style: normal;
+
+}
